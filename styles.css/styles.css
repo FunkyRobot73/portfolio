@@ -57,3 +57,7 @@ body {
   .spacer {
     padding: 20px;
   }
+
+  .button-small {
+    margin: 20px !important;
+  }
